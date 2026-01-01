@@ -50,12 +50,14 @@ print(add_setting(settings, ("Volume", "High")))
 # Setting 'volume' added with value 'high' successfully!
 
 print(view_settings(settings))
-```
+
 Output
 
 Current User Settings:
 Theme: light
 Volume: high
+```
+
 ---
 
 ## ✅ Implemented Functions
